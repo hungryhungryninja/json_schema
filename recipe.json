@@ -1,23 +1,131 @@
 {
-    "id": 1,
-    "author": "Clarence Thomas",
-    "name": "Tater Tots",
-    "description": "Deep fried potato chunks",
-    "dateAdded": "2016-01-25",
-    "yield": "5 Servings",
-    "totalCalories": 100,
-    "ingredients": [
-        {
-            "name": "garlic",
-            "quantity": 5,
-            "unitofmeasure": "tbsp",
-            "comments": "Mash it real fine like"
-        }
-    ],
-    "steps": [
-        "Cut the potatoes into small, bite sized pieces.",
-        "Place the potatoes in a metal cage.",
-        "Drop the metal cage into the hot oil.",
-        "Party"
-    ]
+  "name": "Vegan Tikka Masala Curry with Eggplant, Red Kidney Beans and Zucchini/Courgette",
+  "cookTime": "PT30M",
+  "prepTime": "PT15M",
+  "cookingMethod": "",
+  "nutritionInformation": {},
+  "recipeCategory": "Main dish",
+  "recipeCuisine": "British Indian",
+  "ingredients": [
+    {
+      "name": "2 medium [300g] Chinese eggplants",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1 tablespoon salt",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "Water for soaking",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1 small [180g] courgette/zucchini",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1 tablespoon minced ginger (or ginger-garlic paste)",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1 small onion, sliced or chopped",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1¼ cup [300ml] tomato puree (canned or fresh, blended)",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1 cup [170g] cooked/boiled red kidney beans",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "½ can [200ml] coconut milk",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "2 tablespoons tikka masala mix (store-bought or use our homemade recipe)",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "Pinch of chilli powder to taste",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "2 tablespoons vegetable or coconut oil",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "Salt to taste",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "1 teaspoon maple syrup (or sugar), optional or adjust to taste",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    },
+    {
+      "name": "¼ cup chopped coriander leaves (cilantro) for garnish",
+      "amount": {
+        "measurement": 0,
+        "unitOfMeasure": ""
+      }
+    }
+  ],
+  "instructions": [
+    "Wash and cut the Chinese eggplants across about 2.5 cm or 1-inch thick. Place in a bowl and sprinkle with 1 tablespoon salt. Massage the salt into the eggplants, and then fill the bowl with water to cover them. Leave aside to soak for 10-12 minutes.",
+    "Meanwhile, prepare the other vegetables. Slice the courgette into half-moons of about 1 cm thick.",
+    "Slice or chop the onion.",
+    "When ready, drain the eggplants and rinse a couple of times with fresh water to remove the excess salt. Pat them dry with a paper towel.",
+    "In a skillet, over medium heat, add 2 tablespoons vegetable or coconut oil. Add in the eggplant. Fry for about 7 minutes on one side or until golden. Then flip and fry for another 7 minutes on the other side. Prick the eggplant with a fork to test for doneness. If the fork goes it smoothly with no spongy resistance, the eggplants are done. Remove from the pan and set aside.",
+    "In the same pan, on medium-high heat, add the onions and minced ginger (or ginger-garlic paste). Cook for about 1 minute or until the onions are a little translucent.",
+    "Add the tikka masala mix and roast for about 10 seconds.",
+    "Add the tomato puree, stir and mix well with the spices. Simmer for about 10 minutes or until tomato puree slightly changes colour.",
+    "Add in the cooked red kidney beans followed by the courgette. Cover and simmer for about 7 minutes.",
+    "Add the eggplant.",
+    "Add the coconut milk and mix well. Take care not to crush the eggplant as they are quite delicate at this stage.",
+    "Add salt to taste. Taste the sauce, then add the maple syrup or sugar (if needed). This will depend on how sour or sweet the tomatoes are.",
+    "Cover and simmer for about 5 minutes. Turn off the heat. Garnish with coriander leaves (cilantro) and serve over rice or with roti/naan bread."
+  ]
 }
