@@ -1,0 +1,31 @@
+{
+    "id": 1,
+    "description": "description",
+    "name": "Pie",
+    "author": "John Adams",
+    "recipes": [
+        {
+            "id": 1,
+            "author": "Clarence Thomas",
+            "name": "Tater Tots",
+            "description": "Deep fried potato chunks",
+            "dateAdded": "2016-01-25",
+            "yield": "5 Servings",
+            "totalCalories": 100,
+            "ingredients": [
+                {
+                    "name": "garlic",
+                    "quantity": 5,
+                    "unitofmeasure": "tbsp",
+                    "comments": "Mash it real fine like"
+                }
+            ],
+            "steps": [
+                "Cut the potatoes into small, bite sized pieces.",
+                "Place the potatoes in a metal cage.",
+                "Drop the metal cage into the hot oil.",
+                "Party"
+            ]
+        }
+    ]
+}
